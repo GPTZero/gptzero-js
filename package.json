@@ -1,7 +1,7 @@
 {
-  "name": "gptzero-js",
-  "version": "0.0.0-development",
-  "description": "A template for creating npm packages using TypeScript and VSCode",
+  "name": "gptzero",
+  "version": "0.0.1-development",
+  "description": "A GPTZero client library for javascript",
   "main": "./lib/index.js",
   "files": [
     "lib/**/*"
