@@ -1,4 +1,4 @@
-# gptzero-js
+# gptzero
 
 [![npm package][npm-img]][npm-url]
 <!-- [![Build Status][build-img]][build-url] -->
